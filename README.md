@@ -1,8 +1,6 @@
 # Lyft_Apprenticeship
-This simple applecation written in ruby,
-all you need is to open folder lift_test in your source-code editor. 
-
-Navigate to the derectory lift_test in your terminal so you can test it buy entering this command:
+This simple application written in ruby and store on the master branch,
+all you need is to open folder lift_test in your source-code editor and navigate to the derectory lift_test in your terminal so you can test it buy entering this command:
  curl -X POST https://lyft-interview-test.glitch.me/test --data '{"string_to_cut": "iamyourlyftdriver"}' -H 'Content-Type: application/json'
 
 task: 
